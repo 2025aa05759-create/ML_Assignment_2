@@ -56,15 +56,7 @@ Each model was evaluated using the following metrics:
 - Display of evaluation metrics  
 - Confusion matrix visualization  
 
-## Deployment Instructions
-1. Push the repository to GitHub.  
-2. Go to [Streamlit Cloud](https://streamlit.io/cloud).  
-3. Sign in with GitHub.  
-4. Click **New App** → Select repository → Branch → `app.py`.  
-5. Deploy and obtain the live app link.  
+## Checkout the deployed App:
+-  https://mlassignment2-cujrwsmh66wh4awmsaujzq.streamlit.app/ 
 
-## Submission Checklist
-- GitHub repository link with source code, requirements.txt, and README.md  
-- Live Streamlit app link  
-- Screenshot of execution on BITS Virtual Lab  
-- README.md content included in the PDF submission  
+
